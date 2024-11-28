@@ -1,0 +1,14 @@
+C:\Users\MSBR\source\repos\Berufsschule\IT-APP3\ITL\CICDExample\bin\Debug\net7.0\CICDExample.exe
+C:\Users\MSBR\source\repos\Berufsschule\IT-APP3\ITL\CICDExample\bin\Debug\net7.0\CICDExample.deps.json
+C:\Users\MSBR\source\repos\Berufsschule\IT-APP3\ITL\CICDExample\bin\Debug\net7.0\CICDExample.runtimeconfig.json
+C:\Users\MSBR\source\repos\Berufsschule\IT-APP3\ITL\CICDExample\bin\Debug\net7.0\CICDExample.dll
+C:\Users\MSBR\source\repos\Berufsschule\IT-APP3\ITL\CICDExample\bin\Debug\net7.0\CICDExample.pdb
+C:\Users\MSBR\source\repos\Berufsschule\IT-APP3\ITL\CICDExample\obj\Debug\net7.0\CICDExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSBR\source\repos\Berufsschule\IT-APP3\ITL\CICDExample\obj\Debug\net7.0\CICDExample.AssemblyInfoInputs.cache
+C:\Users\MSBR\source\repos\Berufsschule\IT-APP3\ITL\CICDExample\obj\Debug\net7.0\CICDExample.AssemblyInfo.cs
+C:\Users\MSBR\source\repos\Berufsschule\IT-APP3\ITL\CICDExample\obj\Debug\net7.0\CICDExample.csproj.CoreCompileInputs.cache
+C:\Users\MSBR\source\repos\Berufsschule\IT-APP3\ITL\CICDExample\obj\Debug\net7.0\CICDExample.dll
+C:\Users\MSBR\source\repos\Berufsschule\IT-APP3\ITL\CICDExample\obj\Debug\net7.0\refint\CICDExample.dll
+C:\Users\MSBR\source\repos\Berufsschule\IT-APP3\ITL\CICDExample\obj\Debug\net7.0\CICDExample.pdb
+C:\Users\MSBR\source\repos\Berufsschule\IT-APP3\ITL\CICDExample\obj\Debug\net7.0\CICDExample.genruntimeconfig.cache
+C:\Users\MSBR\source\repos\Berufsschule\IT-APP3\ITL\CICDExample\obj\Debug\net7.0\ref\CICDExample.dll
